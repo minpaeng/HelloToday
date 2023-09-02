@@ -23,7 +23,7 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/minpaeng">
-            <img src="https://avatars.githubusercontent.com/minpaeng" width="140px" /> <br><br> 👑 권민정 <br>(Back-End) </a> <br></td>
+            <img src="https://avatars.githubusercontent.com/minpaeng" width="140px" /> <br><br> 👑 권민정 <br>(Back-End, Infra) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/KodaHye">
             <img src="https://avatars.githubusercontent.com/KodaHye" width="140px" /> <br><br> 🐟 고다혜 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Juahjoah">
